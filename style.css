@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 1.8rem;
+    color: #444;
+    padding: 30px 0;
+}
+main{
+    width: 90%;
+    height: 550px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+div{
+    width: 30%;
+    height: 160px;
+    /* border: 1px solid red; */
+    box-shadow: 2px 2px 5px grey;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.a{
+background-image: url('https://picsum.photos/400/300/?random');
+
+}
+
+.b{
+    background-image: url('https://picsum.photos/400/300/?random/2');
+
+}
+
+.c{
+    background-image: url('https://picsum.photos/400/300/?random/3');
+
+}
+
+.d{
+    background-image: url('https://picsum.photos/400/300/?random/4');
+
+}
+
+.e{
+    background-image: url('https://picsum.photos/400/300/?random/5');
+
+}
+
+.f{
+    background-image: url('https://picsum.photos/400/300/?random/6');
+
+}
+
+.g{
+    background-image: url('https://picsum.photos/400/300/?random/7');
+
+}
+.h{
+    background-image: url('https://picsum.photos/400/300/?random/8');
+
+}
+.i{
+    background-image: url('https://picsum.photos/400/300/?random/9');
+
+}
+.song{
+            color: transparent;
+        }
